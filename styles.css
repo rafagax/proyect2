@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    background-color: lightblue;
+  }
+  
+  .color-box {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+  }
+  
